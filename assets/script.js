@@ -38,9 +38,9 @@ function validacao(){
 
     if (resultadoValidacao){
         document.getElementById('success').style.display = 'block';
-        alert("Validação CPF com sucesso!");
-       // document.getElementById("form-cadastro").submit();
-        return false;
+       
+        document.getElementById("form-cadastro").submit();
+       
     }
     else{
         document.getElementById('error').style.display = 'block'; 
