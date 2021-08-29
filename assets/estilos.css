@@ -1,0 +1,86 @@
+
+*{ 
+    
+    padding: 5px;
+    margin: 5px;
+    color:rgb(182, 170, 10);
+   font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style: none;
+    
+
+}
+
+#logo{
+
+    text-align: left;
+}
+
+.cabecalho{
+
+    text-align: justify;
+    
+    
+}
+
+body{
+    width: 0 auto ;
+    text-align: justify;
+    margin: 10px;
+    padding: 5px ;
+    background-image: linear-gradient(90deg, #1a171a, #191518, #171316, #161114, #140f12, #140f12, #150f13, #150f13, #171215, #1a1418, #1c161a, #1e181c);
+    list-style: none;
+    font-family: monospace;
+	
+    
+}
+
+.CEP{
+    align-items: baseline;
+}
+
+input{
+    max-width: 0 1080 ;
+    display: inline;
+    
+}
+input{
+    color: rgb(92, 91, 91);
+}
+
+select{
+    color: rgb(71, 70, 70); 
+}
+
+a{
+    color: rgb(92, 91, 91);
+}
+
+option{
+    color: rgb(92, 91, 91);
+}
+
+
+.buttonenviar{
+    text-align: center;
+    
+}
+
+button{
+    color: rgb(92, 91, 91);
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
